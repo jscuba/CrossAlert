@@ -1,0 +1,17 @@
+{
+  "name": "crossalert",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Jeffrey Scuba",
+  "private": false,
+  "scripts": {
+    "start": "node crossalert.js"
+  },
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "node-cron": "^2.0.3",
+    "node-notifier": "^8.0.0",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {}
+}
